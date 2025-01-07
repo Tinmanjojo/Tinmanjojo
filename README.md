@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+New to the coding thing and just trying to get my bearings.
+<ul>
+  <li>Male</li>
+  <li>Aquarius</li>
+  <li>Gamer</li>
+</ul>
 <!--
 **Tinmanjojo/Tinmanjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
